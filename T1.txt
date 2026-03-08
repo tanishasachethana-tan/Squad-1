@@ -1,3 +1,7 @@
 Hiiii
+<<<<<<< HEAD
 Hii.
 I'm Tanisha and am a Computer Science student
+=======
+Hello i'm under the waterrrr 
+>>>>>>> be12154e27ff36d1acbf78d91f559a5d439e8fe9
